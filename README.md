@@ -203,12 +203,6 @@ The test suite covers:
 - I/O operations.
 - Compiler and interpreter correctness.
 
-## Conclusion
+## Skills and Knowledge Gained
 
-This self-hosting compiler project demonstrates expertise in:
-
-- **Compiler Design**: Generating efficient assembly from high-level language constructs.
-- **Systems Programming**: Integrating a runtime for memory and I/O management.
-- **Software Testing**: Ensuring robustness through comprehensive test coverage.
-
-It is a testament to skills in programming languages, systems development, and performance optimization. Feel free to explore the repository and reach out for any questions or feedback!
+Through this project, I developed a strong expertise in **compiler design**, encompassing all aspects from parsing high-level constructs to generating efficient x86 assembly. I deepened my understanding of **systems programming**, including memory management, tagged data representation, and runtime integration, which allowed me to design a robust execution environment. This project also enhanced my **proficiency in Racket**, showcasing my ability to leverage functional programming for complex language implementations. Additionally, working with **x86 assembly and C** gave me valuable experience in low-level programming, enabling me to optimize performance and integrate runtime features seamlessly. Finally, I honed my **test-driven development skills** by building a comprehensive suite to ensure the correctness and robustness of the compiler and interpreter. This project exemplifies my ability to tackle challenging problems, design complex systems, and deliver reliable, high-performance solutions.
